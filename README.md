@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Arthur Henrique and i am a game developer in development.
+
+Discord: TuzaoDpp#7355
+
 <!--
 **TuzaoDPP/TuzaoDPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
