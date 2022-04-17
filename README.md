@@ -2,7 +2,11 @@
 
   <p align = "center">🚧 I am a game developer in development... 🚧</p>
    
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whitei" />
+  <a><img src="https://twitter.com/TuzaoDpp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whitei" /></a>
+  <a><img src="https://www.instagram.com/_martins_de_oliveira/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a><img src="https://www.linkedin.com/in/arthur-henrique-93b804223/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a><img src="https://web.whatsapp.com/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  
 
 <!--
 **TuzaoDPP/TuzaoDPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
