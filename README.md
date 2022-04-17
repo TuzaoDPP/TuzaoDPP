@@ -1,6 +1,8 @@
-### Hi there 👋, My name is Arthur Henrique
+ <h1 align = "center"> Hi there 👋, My name is Arthur Henrique </h1>
 
-   I am a game developer in development.
+  <p align = "center">🚧 I am a game developer in development... 🚧</p>
+   
+   <img src = "https://www.instagram.com/_martins_de_oliveira/" />
 
 <!--
 **TuzaoDPP/TuzaoDPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
