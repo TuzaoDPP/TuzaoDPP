@@ -6,9 +6,6 @@
   <a href="https://www.instagram.com/_martins_de_oliveira" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the- badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_martins_de_oliveira">
   </a>
-  <a href="https://twitter.com/TuzaoDpp" alt="Twitter" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TuzaoDpp">
-  </a>
   <a href="https://discord.com/channels/@me" alt="Discord" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=5865F2&logo=discord&logoColor=white&link=TuzaoDpp#7355">
   </a>
