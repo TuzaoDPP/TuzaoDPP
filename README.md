@@ -1,12 +1,11 @@
  <h1 align = "center"> Hi there 👋, My name is Arthur Henrique </h1>
 
-  <p align = "center">🚧 I am a game developer in development... 🚧</p>
-  <p align = "center">I am currently learning `Java`</p>
+  <p align = "center">- I am a game developer in development...</p>
+  <p align = "center">- I am a computer science student...</p>
+  <p align = "center">- I am currently learning <img align="center" alt="js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> and <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></p>
   
    
   <div class='media' align='center'>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1750&pause=1200&color=00D7F6&background=FF000000&center=true&vCenter=true&height=40&lines=More+social+networks;Follow+me" alt="Typing SVG"/>    </a> <br>
     <a href="https://www.linkedin.com/in/arthur-henrique-93b804223/">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=2EA6DE"/>
     </a>
