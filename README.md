@@ -1,15 +1,19 @@
  <h1 align = "center"> Hi there 👋, My name is Arthur Henrique </h1>
 
   <p align = "center">🚧 I am a game developer in development... 🚧</p>
+  <p align = "center">I am currently learning `Java`</p>
+  
    
-  <p align = "center">
-  <a href="https://www.instagram.com/_martins_de_oliveira" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the- badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_martins_de_oliveira">
-  </a>
-  <a href="https://discord.com/channels/@me" alt="Discord" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=5865F2&logo=discord&logoColor=white&link=TuzaoDpp#7355">
-  </a>
-  <p align = "center">
+  <div class='media' align='center'>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1750&pause=1200&color=00D7F6&background=FF000000&center=true&vCenter=true&height=40&lines=More+social+networks;Follow+me" alt="Typing SVG"/>    </a> <br>
+    <a href="https://www.linkedin.com/in/arthur-henrique-93b804223/">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=2EA6DE"/>
+    </a>
+    <a href="https://www.instagram.com/_martins_de_oliveira/">
+        <img src="https://custom-icon-badges.demolab.com/badge/instagram-C04BF7.svg?logo=instagram&logoColor=white&style=for-the-badge&labelColor=D680FF"/>
+    </a>
+</div>
   
 
 <!--
