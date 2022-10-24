@@ -1,6 +1,6 @@
  <h1 align = "center"> Hi there 👋, My name is Arthur Henrique </h1>
 
-  - I'm a game developer in development...<br>I'm a computer science student...<br>I'm currently learning <img align="center" alt="js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+-I'm a game developer in development...<br>-I'm a computer science student...<br>-I'm currently learning <img align="center" alt="js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
   ## 
   <div class='media' align='center'>
